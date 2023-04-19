@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1087844470241",
+    "project_id": "firestoragecarousel",
+    "storage_bucket": "firestoragecarousel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087844470241:android:849e1a8ba344830f8c56a0",
+        "android_client_info": {
+          "package_name": "com.example.firebase_image_carousel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087844470241-uavkhrg4fiulsbj1rr02p3duf4qguffp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO2AZlf2OVE0ir-0F7meC-HVJJBBMgSFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087844470241-uavkhrg4fiulsbj1rr02p3duf4qguffp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
